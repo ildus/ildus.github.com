@@ -1,0 +1,4 @@
+body,html{height:100%;width:100%;}
+.content .title{height:3em;}.content .title div{display:inline-block;vertical-align:top;}
+.content .title .back{width:5%;line-height:3em;text-align:left;}
+.content .title .title_text{width:95%;}
