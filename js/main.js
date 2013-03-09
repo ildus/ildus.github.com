@@ -41,7 +41,7 @@ $(function () {
 
     $('.back a').bind("click", function (e) {
         var state = {location: 'articles'};
-        history.pushState(state, "main", "/blog/");
+        history.pushState(state, "main", "/");
         set_state(state);
     })
 })
